@@ -1,4 +1,4 @@
-package hasidim.partymaker;
+package hasidim.partyMaker;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
